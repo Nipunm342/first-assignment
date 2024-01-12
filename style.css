@@ -31,6 +31,14 @@
 
  /* new year related style */
 
+.our-deals{
+    font-size: 40px;
+    margin-bottom: 9px;
+}
+.catagories{
+    font-size: 27px;
+}
+
  .new-year {
      position: center;
  }
@@ -56,22 +64,18 @@
 
  .welcome-to-midnight-party{
      background-image: url('images/Vectorrr.png');
-     
-      
+
+      font-size: 40px;
+      color: antiquewhite;
+      padding-left: 50px;
+      width: 1200px;
+  
+
      
      
  }
 
- .welcome {
-     
-    color: #FFF;
-   
-    font-size: 64px;
-    
-    font-weight: 900;
-    line-height: 88px; /* 137.5% */
-    letter-spacing: 7.04px;
- }
+ 
 
 
  .place-time-date{
@@ -87,7 +91,7 @@
     font-size: 40px;
  }
  .P,.D,.T{
-    color: red;
+    color:red;
  }
  .place-button{
     color: white;
@@ -96,6 +100,9 @@
     height: 60px;
     border-radius: 10px;
  }
- .button{
-    
+ .button-join{
+     color:black;
+     background-color: rgb(255, 255, 255);
+        
  }
+ 
